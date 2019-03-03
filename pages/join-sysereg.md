@@ -10,7 +10,7 @@ permalink: /join-sysereg/
 
 The following information is important for prospective students.
 
-![Software Maintenance and Reuse Lab]({{ "/resources/images/logo_web_color_2400_frame_transparent.png" }}){: .group-logo } 
+![Software Maintenance and Reuse Lab]({{ "/resources/images/sysereg-logo2.png" }}){: .group-logo } 
 
 * I'm always looking for students at all levels (Master's, PhD, and undergrad RAs). I could also potentially consider exceptional post-docs whose interests overlap with mine.
 * I'm currently interested in the areas of code recommenders (helping with API usage and documentation -- including security APIs), software merging, and support for highly configurable software (see my work on software product lines). I can also be opportunistic: if you have a related software engineering topic that sounds interesting to me, feel free to email me with specifics.
