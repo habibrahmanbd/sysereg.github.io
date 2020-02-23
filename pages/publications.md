@@ -4,19 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Journal Articles
+<script src="https://bibbase.org/show?bib=dl.dropboxusercontent.com/s/eu5cc4asic3n7st/nadi.bib&jsonp=1&authorFirst=1&token=75cd19d05ac368754ed6c6d9096f379f">
 
-{% bibliography -q @article %}
-
-## Book Chapters
-
-{% bibliography -q @inbook %}
-
-## Conferences and Workshops
-
-{% bibliography -q @inproceedings %}
-
-## Manuscripts
-
-{% bibliography -q @phdthesis %}
+</script>
 
